@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CalendarProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CalendarProject_jar</output-path>
+    <root id="archive" name="CalendarProject.jar">
+      <element id="module-output" name="CalendarProject" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
